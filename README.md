@@ -2,13 +2,12 @@
 
 'lshtm' theme needs the *Carlito* font ([just Google it](https://www.google.com/search?q=carlito+font)).
 
-
 ## Minimal example
 
 ````{md}
 ---
 title: A minimal example
-author: Matthias Vogelgesang
+author: David Hajage
 date: \today
 toc: true
 output: lshtm::lshtm
