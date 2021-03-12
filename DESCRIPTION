@@ -1,0 +1,17 @@
+Package: lshtm
+Type: Package
+Title: 'lshtm' rmarkdown theme for beamer presentation
+Version: 0.0.1
+Date: 2021-03-03
+Author: David Hajage
+Maintainer: David Hajage <david.hajage@lshtmlshtm.ac.uk>
+Description: A 'LaTeX' style using 'Beamer' customization for
+ pdf-based presentation slides in 'RMarkdown'. It contains
+ 'RMarkdown' adaptations of the LaTeX theme 'LSHTM'
+ theme, which is based on the 'Monash' theme by
+ Rob J Hyndman.
+Imports: rmarkdown, knitr
+VignetteBuilder: knitr
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.1.1

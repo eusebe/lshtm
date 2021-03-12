@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^localTests
+.*\.tar\.gz$
+^docs
+^vignettes/.*_cache
+^vignettes/.*_files
+^\.travis.yml$
+^\.github
