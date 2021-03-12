@@ -8,7 +8,7 @@ Minimal example:
 title: A minimal example
 author: Matthias Vogelgesang
 date: \today
-institute: Centre for Modern Beamer Themes
+toc: true
 output: lshtm::lshtm
 ---
 
