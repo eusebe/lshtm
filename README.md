@@ -1,6 +1,6 @@
 'lshtm' rmarkdown theme for beamer presentation, based on the 'binb' R package and the 'Monash' beamer theme.
 
-'lshtm' theme needs the \emph{Carlito} font ([just Google it](https://www.google.com/search?q=carlito+font)).
+'lshtm' theme needs the *Carlito* font ([just Google it](https://www.google.com/search?q=carlito+font)).
 
 
 ## Minimal example
